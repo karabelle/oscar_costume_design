@@ -17,7 +17,7 @@ A character string.
 
 |Data Value|Organization|Award Category/Name|Range of Years with Winners|Next Ceremony|
 |----------|------------|-------------------|---------------------------|-------------|
-|BAFTA|British Academy of Film and Television Arts||2000 - 2017|N|
+|BAFTA|British Academy of Film and Television Arts||2000 - 2017||
 |CCA|Critic's Choice Awards||2009 - 2017||
 |CDGA-C|Costume Designer's Guild of America|Excellence in Contemporary Film|2000 - 2016|02/20/2018|
 |CDGA-P|Costume Designer's Guild of America|Excellence in Period Film|2005 - 2016*|02/20/2018|
