@@ -1,0 +1,724 @@
+Year,Movie,Award,Winner
+2000,Gladiator,Oscar,Y
+2000,"Crouching Tiger, Hidden Dragon",Oscar,N
+2000,How the Grinch Stole Christmas,Oscar,N
+2000,102 Dalmatians,Oscar,N
+2000,Quills,Oscar,N
+2001,Moulin Rouge!,Oscar,Y
+2001,The Affair of the Necklace,Oscar,N
+2001,Gosford Park,Oscar,N
+2001,Harry Potter and the Sorcerer's Stone,Oscar,N
+2001,The Lord of the Rings: The Fellowship of the Ring,Oscar,N
+2002,Chicago,Oscar,Y
+2002,Frida,Oscar,N
+2002,Gangs of New York,Oscar,N
+2002,The Hours,Oscar,N
+2002,The Pianist,Oscar,N
+2003,The Lord of the Rings: The Return of the King,Oscar,Y
+2003,Girl with a Pearl Earring,Oscar,N
+2003,The Last Samurai,Oscar,N
+2003,Master and Commander: The Far Side of the World,Oscar,N
+2003,Seabiscuit,Oscar,N
+2004,The Aviator,Oscar,Y
+2004,Finding Neverland,Oscar,N
+2004,Lemony Snicket's A Series of Unfortunate Events,Oscar,N
+2004,Ray,Oscar,N
+2004,Troy,Oscar,N
+2005,Memoirs of a Geisha,Oscar,Y
+2005,Charlie and the Chocolate Factory,Oscar,N
+2005,Mrs Henderson Presents,Oscar,N
+2005,Pride & Prejudice,Oscar,N
+2005,Walk the Line,Oscar,N
+2006,Marie Antoinette,Oscar,Y
+2006,Curse of the Golden Flower,Oscar,N
+2006,The Devil Wears Prada,Oscar,N
+2006,Dreamgirls,Oscar,N
+2006,The Queen,Oscar,N
+2007,Elizabeth: The Golden Age,Oscar,Y
+2007,Across the Universe,Oscar,N
+2007,Atonement,Oscar,N
+2007,La Vie en Rose,Oscar,N
+2007,Sweeney Todd: The Demon Barber of Fleet Street,Oscar,N
+2008,The Duchess,Oscar,Y
+2008,Australia,Oscar,N
+2008,The Curious Case of Benjamin Button,Oscar,N
+2008,Milk,Oscar,N
+2008,Revolutionary Road,Oscar,N
+2009,The Young Victoria,Oscar,Y
+2009,Bright Star,Oscar,N
+2009,Coco Before Chanel (Coco avant Chanel),Oscar,N
+2009,The Imaginarium of Doctor Parnassus,Oscar,N
+2009,Nine,Oscar,N
+2010,Alice in Wonderland,Oscar,Y
+2010,I Am Love,Oscar,N
+2010,The King's Speech,Oscar,N
+2010,The Tempest,Oscar,N
+2010,True Grit,Oscar,N
+2011,The Artist,Oscar,Y
+2011,Anonymous,Oscar,N
+2011,Hugo,Oscar,N
+2011,Jane Eyre,Oscar,N
+2011,W.E.,Oscar,N
+2012,Anna Karenina,Oscar,Y
+2012,Les Misérables,Oscar,N
+2012,Lincoln,Oscar,N
+2012,Mirror Mirror,Oscar,N
+2012,Snow White and the Huntsman,Oscar,N
+2013,The Great Gatsby,Oscar,Y
+2013,American Hustle,Oscar,N
+2013,The Grandmaster,Oscar,N
+2013,The Invisible Woman,Oscar,N
+2013,12 Years a Slave,Oscar,N
+2014,The Grand Budapest Hotel,Oscar,Y
+2014,Inherent Vice,Oscar,N
+2014,Into the Woods,Oscar,N
+2014,Maleficent,Oscar,N
+2014,Mr. Turner,Oscar,N
+2015,Mad Max: Fury Road,Oscar,Y
+2015,Carol,Oscar,N
+2015,Cinderella,Oscar,N
+2015,The Danish Girl,Oscar,N
+2015,The Revenant,Oscar,N
+2016,Fantastic Beasts and Where to Find Them,Oscar,Y
+2016,Allied,Oscar,N
+2016,Florence Foster Jenkins,Oscar,N
+2016,Jackie,Oscar,N
+2016,La La Land,Oscar,N
+2017,Beauty and the Beast,Oscar,
+2017,Darkest Hour,Oscar,
+2017,Phantom Thread,Oscar,
+2017,The Shape of Water,Oscar,
+2017,Victoria & Abdul,Oscar,
+2000,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",BAFTA,Y
+2000,Chocolat,BAFTA,N
+2000,Gladiator,BAFTA,N
+2000,"O Brother, Where Art Thou?",BAFTA,N
+2000,Quills,BAFTA,N
+2001,Gosford Park,BAFTA,Y
+2001,Harry Potter and the Philosopher's Stone,BAFTA,N
+2001,The Lord of the Rings: The Fellowship of the Ring,BAFTA,N
+2001,Moulin Rouge!,BAFTA,N
+2001,Planet of the Apes,BAFTA,N
+2002,The Lord of the Rings: The Two Towers,BAFTA,Y
+2002,Catch Me If You Can,BAFTA,N
+2002,Chicago,BAFTA,N
+2002,Frida,BAFTA,N
+2002,Gangs of New York,BAFTA,N
+2003,Master and Commander: The Far Side of the World,BAFTA,Y
+2003,Cold Mountain,BAFTA,N
+2003,Girl with a Pearl Earring,BAFTA,N
+2003,The Lord of the Rings: The Return of the King,BAFTA,N
+2003,Pirates of the Caribbean: The Curse of the Black Pearl,BAFTA,N
+2004,Vera Drake,BAFTA,Y
+2004,The Aviator,BAFTA,N
+2004,Finding Neverland,BAFTA,N
+2004,House of Flying Daggers (Shi mian mai fu),BAFTA,N
+2004,The Merchant of Venice,BAFTA,N
+2005,Memoirs of a Geisha,BAFTA,Y
+2005,Charlie and the Chocolate Factory,BAFTA,N
+2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",BAFTA,N
+2005,Mrs Henderson Presents,BAFTA,N
+2005,Pride & Prejudice,BAFTA,N
+2006,Pan's Labyrinth (El laberinto del fauno),BAFTA,Y
+2006,The Devil Wears Prada,BAFTA,N
+2006,Marie Antoinette,BAFTA,N
+2006,Pirates of the Caribbean: Dead Man's Chest,BAFTA,N
+2006,The Queen,BAFTA,N
+2007,La Vie en Rose (La môme),BAFTA,Y
+2007,Atonement,BAFTA,N
+2007,Elizabeth: The Golden Age,BAFTA,N
+2007,"Lust, Caution",BAFTA,N
+2007,Sweeney Todd: The Demon Barber of Fleet Street,BAFTA,N
+2008,The Duchess,BAFTA,Y
+2008,Changeling,BAFTA,N
+2008,The Curious Case of Benjamin Button,BAFTA,N
+2008,The Dark Knight,BAFTA,N
+2008,Revolutionary Road,BAFTA,N
+2009,The Young Victoria,BAFTA,Y
+2009,Bright Star,BAFTA,N
+2009,Coco Before Chanel (Coco avant Chanel),BAFTA,N
+2009,An Education,BAFTA,N
+2009,A Single Man,BAFTA,N
+2010,Alice in Wonderland,BAFTA,Y
+2010,Black Swan,BAFTA,N
+2010,The King's Speech,BAFTA,N
+2010,Made in Dagenham,BAFTA,N
+2010,True Grit,BAFTA,N
+2011,The Artist,BAFTA,Y
+2011,Tinker Tailor Soldier Spy,BAFTA,N
+2011,Jane Eyre,BAFTA,N
+2011,Hugo,BAFTA,N
+2011,My Week with Marilyn,BAFTA,N
+2012,Anna Karenina,BAFTA,Y
+2012,Great Expectations,BAFTA,N
+2012,Les Misérables,BAFTA,N
+2012,Allied,BAFTA,N
+2012,Snow White and the Huntsman,BAFTA,N
+2013,The Great Gatsby,BAFTA,Y
+2013,American Hustle,BAFTA,N
+2013,Behind the Candelabra,BAFTA,N
+2013,The Invisible Woman,BAFTA,N
+2013,Saving Mr. Banks,BAFTA,N
+2014,The Grand Budapest Hotel,BAFTA,Y
+2014,The Imitation Game,BAFTA,N
+2014,Into the Woods,BAFTA,N
+2014,Mr. Turner,BAFTA,N
+2014,The Theory of Everything,BAFTA,N
+2015,Mad Max: Fury Road,BAFTA,Y
+2015,Brooklyn,BAFTA,N
+2015,Carol,BAFTA,N
+2015,Cinderella,BAFTA,N
+2015,The Danish Girl,BAFTA,N
+2016,Jackie,BAFTA,Y
+2016,Allied,BAFTA,N
+2016,Fantastic Beasts and Where to Find Them,BAFTA,N
+2016,Florence Foster Jenkins,BAFTA,N
+2016,La La Land,BAFTA,N
+2017,Beauty and the Beast,BAFTA,Y
+2017,Darkest Hour,BAFTA,N
+2017,"I, Tonya",BAFTA,N
+2017,Phantom Thread,BAFTA,N
+2017,The Shape of Water,BAFTA,N
+2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",CDGA-F,Y
+2006,Pan's Labyrinth (El laberinto del fauno),CDGA-F,Y
+2007,The Golden Compass,CDGA-F,Y
+2008,The Dark Knight,CDGA-F,Y
+2009,The Imaginarium of Doctor Parnassus,CDGA-F,Y
+2010,Alice in Wonderland,CDGA-F,Y
+2011,Harry Potter and the Deathly Hallows – Part 2,CDGA-F,Y
+2012,Mirror Mirror,CDGA-F,Y
+2013,The Hunger Games: Catching Fire,CDGA-F,Y
+2014,Into the Woods,CDGA-F,Y
+2015,Mad Max: Fury Road,CDGA-F,Y
+2016,Doctor Strange,CDGA-F,Y
+2000,How the Grinch Stole Christmas,CDGA-FP,Y
+2001,Harry Potter and the Sorcerer's Stone,CDGA-FP,Y
+2002,Chicago,CDGA-FP,Y
+2003,The Lord of the Rings: The Return of the King,CDGA-FP,Y
+2004,Lemony Snicket's A Series of Unfortunate Events,CDGA-FP,Y
+2005,Memoirs of a Geisha,CDGA-P,Y
+2006,Curse of the Golden Flower (Man cheng jin dai huang jin jia),CDGA-P,Y
+2007,Sweeney Todd: The Demon Barber of Fleet Street,CDGA-P,Y
+2008,The Duchess,CDGA-P,Y
+2009,The Young Victoria,CDGA-P,Y
+2010,The King's Speech,CDGA-P,Y
+2011,W.E.,CDGA-P,Y
+2012,Anna Karenina,CDGA-P,Y
+2013,12 Years a Slave,CDGA-P,Y
+2014,The Grand Budapest Hotel,CDGA-P,Y
+2015,The Danish Girl,CDGA-P,Y
+2016,Hidden Figures,CDGA-P,Y
+2000,Erin Brockovich,CDGA-C,Y
+2001,The Royal Tenenbaums,CDGA-C,Y
+2002,About Schmidt,CDGA-C,Y
+2003,A Mighty Wind,CDGA-C,Y
+2004,The Life Aquatic with Steve Zissou,CDGA-C,Y
+2005,Transamerica,CDGA-C,Y
+2006,The Queen,CDGA-C,Y
+2007,Blades of Glory,CDGA-C,Y
+2008,Slumdog Millionaire,CDGA-C,Y
+2009,Crazy Heart,CDGA-C,Y
+2010,Black Swan,CDGA-C,Y
+2011,The Girl with the Dragon Tattoo,CDGA-C,Y
+2012,Skyfall,CDGA-C,Y
+2013,Blue Jasmine,CDGA-C,Y
+2014,Birdman or (The Unexpected Virtue of Ignorance),CDGA-C,Y
+2015,Beasts of No Nation,CDGA-C,Y
+2016,La La Land,CDGA-C,Y
+2017,Get Out,CDGA-C,
+2017,"I, Tonya",CDGA-C,
+2017,Kingsman: The Golden Circle,CDGA-C,
+2017,Lady Bird,CDGA-C,
+2017,"Three Billboards Outside Ebbing, Missouri",CDGA-C,
+2017,Dunkrik,CDGA-P,
+2017,Murder on the Orient Express,CDGA-P,
+2017,Phantom Thread,CDGA-P,
+2017,The Greatest Showman,CDGA-P,
+2017,The Shape of Water,CDGA-P,
+2017,Beauty and the Beast,CDGA-F,
+2017,Blade Runner 2049,CDGA-F,
+2017,Star Wars: The Last Jedi,CDGA-F,
+2017,Thor: Ragnarok,CDGA-F,
+2017,Wonder Woman,CDGA-F,
+2016,Absolutely Fabulous: The Movie,CDGA-C,N
+2016,Captain Fantastic,CDGA-C,N
+2016,Lion,CDGA-C,N
+2016,Nocturnal Animals,CDGA-C,N
+2016,The Dressmaker,CDGA-P,N
+2016,Florence Foster Jenkins,CDGA-P,N
+2016,"Hail, Caesar!",CDGA-P,N
+2016,Jackie,CDGA-P,N
+2016,Fantastic Beasts and Where to Find Them,CDGA-F,N
+2016,Kubo and the Two Strings,CDGA-F,N
+2016,Miss Peregrine's Home for Peculiar Children,CDGA-F,N
+2016,Rogue One: A Star Wars Story,CDGA-F,N
+2014,Boyhood,CDGA-C,N
+2014,Gone Girl,CDGA-C,N
+2014,Interstellar,CDGA-C,N
+2014,Wild,CDGA-C,N
+2014,The Imitation Game,CDGA-P,N
+2014,Inherent Vice,CDGA-P,N
+2014,Selma,CDGA-P,N
+2014,The Theory of Everything,CDGA-P,N
+2014,Guardians of the Galaxy,CDGA-F,N
+2014,The Hobbit: The Battle of the Five Armies,CDGA-F,N
+2014,"The Hunger Games: Mockingjay, Part 1",CDGA-F,N
+2014,Maleficent,CDGA-F,N
+2013,Her,CDGA-C,N
+2013,Nebraska,CDGA-C,N
+2013,Philomena,CDGA-C,N
+2013,The Secret Life of Walter Mitty,CDGA-C,N
+2013,American Hustle,CDGA-P,N
+2013,Dallas Buyers Club,CDGA-P,N
+2013,The Great Gatsby,CDGA-P,N
+2013,Saving Mr. Banks,CDGA-P,N
+2013,The Hobbit: The Desolation of Smaug,CDGA-F,N
+2013,Oz: The Great and Powerful,CDGA-F,N
+2015,Joy,CDGA-C,N
+2015,Kingsman: The Secret Service,CDGA-C,N
+2015,The Martian,CDGA-C,N
+2015,Youth,CDGA-C,N
+2015,Brooklyn,CDGA-P,N
+2015,Carol,CDGA-P,N
+2015,Crimson Peak,CDGA-P,N
+2015,Trumbo,CDGA-P,N
+2015,Cinderella,CDGA-F,N
+2015,Ex Machina,CDGA-F,N
+2015,"The Hunger Games: Mockingjay, Part 2",CDGA-F,N
+2015,Star Wars: The Force Awakens,CDGA-F,N
+2011,Bridesmaids,CDGA-C,N
+2011,The Descendants,CDGA-C,N
+2011,Drive,CDGA-C,N
+2011,Melancholia,CDGA-C,N
+2011,The Artist,CDGA-P,N
+2011,Jane Eyre,CDGA-P,N
+2011,The Help,CDGA-P,N
+2011,Hugo,CDGA-P,N
+2011,Pirates of the Caribbean: On Stranger Tides,CDGA-F,N
+2011,Red Riding Hood,CDGA-F,N
+2011,Thor,CDGA-F,N
+2011,X-Men: First Class,CDGA-F,N
+2010,Burlesque,CDGA-C,N
+2010,Inception,CDGA-C,N
+2010,The Social Network,CDGA-C,N
+2010,Wall Street: Money Never Sleeps,CDGA-C,N
+2010,The Fighter,CDGA-P,N
+2010,True Grit,CDGA-P,N
+2010,The Tempest,CDGA-F,N
+2010,Tron: Legacy,CDGA-F,N
+2009,(500) Days of Summer,CDGA-C,N
+2009,Bruno,CDGA-C,N
+2009,Precious: Based on the Novel Push by Sapphire,CDGA-C,N
+2009,Up in the Air,CDGA-C,N
+2009,Coco Before Chanel (Coco avant Chanel),CDGA-P,N
+2009,Julie & Julia,CDGA-P,N
+2009,Nine,CDGA-P,N
+2009,Sherlock Holmes,CDGA-P,N
+2009,Avatar,CDGA-F,N
+2009,Star Trek,CDGA-F,N
+2008,Iron Man,CDGA-C,N
+2008,Mamma Mia!,CDGA-C,N
+2008,Sex and the City,CDGA-C,N
+2008,The Wrestler,CDGA-C,N
+2008,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",CDGA-F,N
+2008,The Mummy: Tomb of the Dragon Emperor,CDGA-F,N
+2008,Changeling,CDGA-P,N
+2008,The Curious Case of Benjamin Button,CDGA-P,N
+2008,Milk,CDGA-P,N
+2008,Revolutionary Road,CDGA-P,N
+2007,The Diving Bell and the Butterfly,CDGA-C,N
+2007,Into the Wild,CDGA-C,N
+2007,Juno,CDGA-C,N
+2007,Ocean's Thirteen,CDGA-C,N
+2007,300,CDGA-F,N
+2007,Enchanted,CDGA-F,N
+2007,Harry Potter and the Order of the Phoenix,CDGA-F,N
+2007,Pirates of the Caribbean: At World's End,CDGA-F,N
+2007,3:10 to Yuma,CDGA-P,N
+2007,Atonement,CDGA-P,N
+2007,Elizabeth: The Golden Age,CDGA-P,N
+2007,La Vie en Rose (La môme),CDGA-P,N
+2006,Babel,CDGA-C,N
+2006,Casino Royale,CDGA-C,N
+2006,Little Miss Sunshine,CDGA-C,N
+2006,The Devil Wears Prada,CDGA-C,N
+2006,Eragon,CDGA-F,N
+2006,The Fountain,CDGA-F,N
+2006,X-Men: The Last Stand,CDGA-F,N
+2006,V for Vendetta,CDGA-F,N
+2006,Dream Girls,CDGA-P,N
+2006,The Illusionist,CDGA-P,N
+2006,Marie Antoinette,CDGA-P,N
+2006,Pirates of the Caribbean: Dead Man's Chest,CDGA-P,N
+2005,Hustle & Flow,CDGA-C,N
+2005,Mr. & Mrs. Smith,CDGA-C,N
+2005,Shopgirl,CDGA-C,N
+2005,Syriana,CDGA-C,N
+2005,Batman Begins,CDGA-F,N
+2005,Charlie and the Chocolate Factory,CDGA-F,N
+2005,Star Wars: Episode III - Revenge of the Sith,CDGA-F,N
+2005,Capote,CDGA-P,N
+2005,"Good Night, and Good Luck.",CDGA-P,N
+2005,Rent,CDGA-P,N
+2005,Walk the Line,CDGA-P,N
+2004,The Aviator,CDGA-FP,N
+2004,De-Lovely,CDGA-FP,N
+2004,The Phantom of the Opera,CDGA-FP,N
+2004,Ray,CDGA-FP,N
+2004,Alfie,CDGA-C,N
+2004,Eternal Sunshine of the Spotless Mind,CDGA-C,N
+2004,Kill Bill: Volume 2,CDGA-C,N
+2004,Ocean's Twelve,CDGA-C,N
+2000,Charlie's Angels,CDGA-C,N
+2000,High Fidelity,CDGA-C,N
+2000,Traffic,CDGA-C,N
+2000,X-Men,CDGA-C,N
+2000,Almost Famous,CDGA-FP,N
+2000,Chocolat,CDGA-FP,N
+2000,Quills,CDGA-FP,N
+2001,Legally Blonde,CDGA-C,N
+2001,Mulholland Drive,CDGA-C,N
+2001,Ocean's Eleven,CDGA-C,N
+2001,Blow,CDGA-FP,N
+2001,Hedwig and the Angry Itch,CDGA-FP,N
+2001,Planet of the Apes,CDGA-FP,N
+2002,About a Boy,CDGA-C,N
+2002,Igby Goes Down,CDGA-C,N
+2002,Unfaithful,CDGA-C,N
+2002,White Oleander,CDGA-C,N
+2002,Frida,CDGA-FP,N
+2002,Road to Perdition,CDGA-FP,N
+2002,The Lord of the Rings: The Two Towers,CDGA-FP,N
+2003,Charlie's Angels: Full Throttle,CDGA-C,N
+2003,Kill Bill: Volume 1,CDGA-C,N
+2003,"Legally Blonde 2: Red, White & Blue",CDGA-C,N
+2003,Pirates of the Caribbean: The Curse of the Black Pearl,CDGA-FP,N
+2003,Seabiscuit,CDGA-FP,N
+2003,The Last Samurai,CDGA-FP,N
+2012,Beasts of the Southern Wild,CDGA-C,N
+2012,Silver Linings Playbook,CDGA-C,N
+2012,The Best Exotic Marigold Hotel,CDGA-C,N
+2012,Zero Dark Thirty,CDGA-C,N
+2012,Cloud Atlas,CDGA-F,N
+2012,Snow White and the Huntsman,CDGA-F,N
+2012,The Hobbit: An Unexpected Journey,CDGA-F,N
+2012,The Hunger Games,CDGA-F,N
+2012,Argo,CDGA-P,N
+2012,Les Misérables,CDGA-P,N
+2012,Lincoln,CDGA-P,N
+2012,Moonrise Kingdom,CDGA-P,N
+2000,How the Grinch Stole Christmas,Satellite,Y
+2000,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",Satellite,N
+2000,Gladiator,Satellite,N
+2000,The House of Mirth,Satellite,N
+2000,The Patriot,Satellite,N
+2001,Moulin Rouge!,Satellite,Y
+2001,The Affair of the Necklace,Satellite,N
+2001,From Hell,Satellite,N
+2001,The Lord of the Rings: The Fellowship of the Ring,Satellite,N
+2001,Planet of the Apes,Satellite,N
+2002,Frida,Satellite,Y
+2002,Austin Powers in Goldmember,Satellite,N
+2002,Gangs of New York,Satellite,N
+2002,Road to Perdition,Satellite,N
+2002,Star Wars: Episode II – Attack of the Clones,Satellite,N
+2003,The Last Samurai,Satellite,Y
+2003,The Company,Satellite,N
+2003,The Lord of the Rings: The Return of the King,Satellite,N
+2003,Master and Commander: The Far Side of the World,Satellite,N
+2003,Pirates of the Caribbean: The Curse of the Black Pearl,Satellite,N
+2003,Seabiscuit,Satellite,N
+2004,Vanity Fair,Satellite,Y
+2004,The Aviator,Satellite,N
+2004,De-Lovely,Satellite,N
+2004,The Phantom of the Opera,Satellite,N
+2004,House of Flying Daggers (Shi mian mai fu),Satellite,N
+2004,Sky Captain and the World of Tomorrow,Satellite,N
+2005,Pride & Prejudice,Satellite,Y
+2005,Harry Potter and the Goblet of Fire,Satellite,N
+2005,Kingdom of Heaven,Satellite,N
+2005,Memoirs of a Geisha,Satellite,N
+2005,Modigliani,Satellite,N
+2005,The White Countess,Satellite,N
+2006,The Devil Wears Prada,Satellite,Y
+2006,The Black Dahlia,Satellite,N
+2006,Curse of the Golden Flower (Man cheng jin dai huang jin jia),Satellite,N
+2006,Dreamgirls,Satellite,N
+2006,Marie Antoinette,Satellite,N
+2007,Elizabeth: The Golden Age,Satellite,Y
+2007,Amazing Grace,Satellite,N
+2007,Atonement,Satellite,N
+2007,Goya's Ghosts,Satellite,N
+2007,Hairspray,Satellite,N
+2007,La Vie en Rose (La môme),Satellite,N
+2008,The Duchess,Satellite,Y
+2008,Australia,Satellite,N
+2008,Brideshead Revisited,Satellite,N
+2008,City of Ember,Satellite,N
+2008,The Curious Case of Benjamin Button,Satellite,N
+2008,Sex and the City,Satellite,N
+2009,The Imaginarium of Doctor Parnassus,Satellite,Y
+2009,Chéri,Satellite,N
+2009,Nine,Satellite,N
+2009,Red Cliff (Chi bi),Satellite,N
+2009,The Young Victoria,Satellite,N
+2010,Alice in Wonderland,Satellite,Y
+2010,Robin Hood,Satellite,N
+2010,The King's Speech,Satellite,N
+2010,Eat Pray Love,Satellite,N
+2010,Black Swan,Satellite,N
+2011,Water for Elephants,Satellite,Y
+2011,Anonymous,Satellite,N
+2011,The Artist,Satellite,N
+2011,Faust,Satellite,N
+2011,Jane Eyre,Satellite,N
+2011,Mysteries of Lisbon,Satellite,N
+2012,A Royal Affair,Satellite,Y
+2012,Les Misérables,Satellite,N
+2012,Anna Karenina,Satellite,N
+2012,Cloud Atlas,Satellite,N
+2012,"Farewell, My Queen",Satellite,N
+2012,Snow White and the Huntsman,Satellite,N
+2013,The Invisible Woman,Satellite,Y
+2013,Rush,Satellite,N
+2013,The Great Gatsby,Satellite,N
+2013,Saving Mr. Banks,Satellite,N
+2013,12 Years a Slave,Satellite,N
+2013,Oz the Great and Powerful,Satellite,N
+2014,The Grand Budapest Hotel,Satellite,Y
+2014,Belle,Satellite,N
+2014,Into the Woods,Satellite,N
+2014,Maleficent,Satellite,N
+2014,Noah,Satellite,N
+2014,Saint Laurent,Satellite,N
+2015,The Assassin,Satellite,Y
+2015,Cinderella,Satellite,N
+2015,The Danish Girl,Satellite,N
+2015,Far from the Madding Crowd,Satellite,N
+2015,Macbeth,Satellite,N
+2015,The Throne,Satellite,N
+2016,Jackie,Satellite,Y
+2016,Alice Through the Looking Glass,Satellite,N
+2016,Captain Fantastic,Satellite,N
+2016,Doctor Strange,Satellite,N
+2016,La La Land,Satellite,N
+2016,Love & Friendship,Satellite,N
+2017,Beauty and the Beast,Satellite,
+2017,The Beguiled,Satellite,
+2017,Dunkirk,Satellite,
+2017,Murder on the Orient Express,Satellite,
+2017,Phantom Thread,Satellite,
+2017,Victoria & Abdul,Satellite,
+2000,The Cell,OF&TA,Y
+2000,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",OF&TA,N
+2000,The House of Mirth,OF&TA,N
+2000,How the Grinch Stole Christmas,OF&TA,N
+2000,Quills,OF&TA,N
+2001,Gosford Park,OF&TA,N
+2001,Harry Potter and the Sorcerer's Stone,OF&TA,N
+2001,The Lord of the Rings: The Fellowship of the Ring,OF&TA,N
+2001,Moulin Rouge!,OF&TA,Y
+2001,Planet of the Apes,OF&TA,N
+2002,Chicago,OF&TA,N
+2002,Far From Heaven,OF&TA,N
+2002,Frida,OF&TA,N
+2002,Gangs of New York,OF&TA,N
+2002,The Lord of the Rings: The Two Towers,OF&TA,Y
+2003,Down with Love,OF&TA,N
+2003,Girl with a Pearl Earring,OF&TA,N
+2003,The Lord of the Rings: The Return of the King,OF&TA,Y
+2003,Master and Commander: The Far Side of the World,OF&TA,N
+2003,Pirates of the Caribbean: The Curse of the Black Pearl,OF&TA,N
+2004,The Aviator,OF&TA,N
+2004,Hero,OF&TA,N
+2004,House of Flying Daggers (Shi mian mai fu),OF&TA,Y
+2004,The Phantom of the Opera,OF&TA,N
+2004,Vanity Fair,OF&TA,N
+2005,King Kong,OF&TA,N
+2005,Memoirs of a Geisha,OF&TA,Y
+2005,Mrs. Henderson Presents,OF&TA,N
+2005,Pride & Prejudice,OF&TA,N
+2005,2046,OF&TA,N
+2006,The Devil Wears Prada,OF&TA,N
+2006,Dreamgirls,OF&TA,N
+2006,Marie Antoinette,OF&TA,Y
+2006,The Prestige,OF&TA,N
+2006,The Queen,OF&TA,N
+2007,The Assassination of Jesse James by the Coward Robert Ford,OF&TA,N
+2007,Atonement,OF&TA,N
+2007,Hairspray,OF&TA,N
+2007,"Lust, Caution",OF&TA,N
+2007,Sweeney Todd: The Demon Barber of Fleet Street,OF&TA,Y
+2008,Changeling,OF&TA,N
+2008,The Curious Case of Benjamin Button,OF&TA,Y
+2008,The Duchess,OF&TA,N
+2008,Milk,OF&TA,N
+2008,Revolutionary Road,OF&TA,N
+2009,Bright Star,OF&TA,Y
+2009,Coco Before Chanel (Coco avant Chanel),OF&TA,N
+2009,An Education,OF&TA,N
+2009,Inglourious Basterds,OF&TA,N
+2009,The Young Victoria,OF&TA,N
+2010,Alice in Wonderland,OF&TA,N
+2010,Black Swan,OF&TA,N
+2010,The King's Speech,OF&TA,Y
+2010,Made in Dagenham,OF&TA,N
+2010,Scott Pilgrim vs. The World,OF&TA,N
+2011,The Artist,OF&TA,N
+2011,The Help,OF&TA,N
+2011,Hugo,OF&TA,N
+2011,Jane Eyre,OF&TA,Y
+2011,My Week with Marilyn,OF&TA,N
+2012,Anna Karenina,OF&TA,Y
+2012,Les Misérables,OF&TA,N
+2012,Lincoln,OF&TA,N
+2012,"Mirror, Mirror",OF&TA,N
+2012,Moonrise Kingdom,OF&TA,N
+2013,12 Years a Slave,OF&TA,N
+2013,American Hustle,OF&TA,N
+2013,The Great Gatsby,OF&TA,Y
+2013,The Hunger Games: Catching Fire,OF&TA,N
+2013,Saving Mr. Banks,OF&TA,N
+2014,Belle,OF&TA,N
+2014,The Grand Budapest Hotel,OF&TA,Y
+2014,The Immigrant,OF&TA,N
+2014,Into the Woods,OF&TA,N
+2014,Mr. Turner,OF&TA,N
+2015,Brooklyn,OF&TA,N
+2015,Carol,OF&TA,N
+2015,Cinderella,OF&TA,Y
+2015,The Danish Girl,OF&TA,N
+2015,Mad Max: Fury Road,OF&TA,N
+2016,The Dressmaker,OF&TA,N
+2016,Fantastic Beasts and Where to Find Them,OF&TA,Y
+2016,Florence Foster Jenkins,OF&TA,N
+2016,Jackie,OF&TA,N
+2016,La La Land,OF&TA,N
+2017,Beauty and the Beast,OF&TA,
+2017,Blade Runner 2049,OF&TA,
+2017,Phantom Thread,OF&TA,
+2017,The Shape of Water,OF&TA,
+2017,Wonder Woman,OF&TA,
+2000,Gladiator,LVFCS,Y
+2016,The Witch,LVFCS,Y
+2001,The Lord of the Rings: The Fellowship of the Ring,LVFCS,Y
+2002,The Lord of the Rings: The Two Towers,LVFCS,Y
+2003,The Lord of the Rings: The Return of the King,LVFCS,Y
+2004,The Aviator,LVFCS,Y
+2005,King Kong,LVFCS,Y
+2006,Marie Antoinette,LVFCS,Y
+2007,Sweeney Todd: The Demon Barber of Fleet Street,LVFCS,Y
+2008,The Curious Case of Benjamin Button,LVFCS,Y
+2009,Inglourious Basterds,LVFCS,Y
+2010,Alice in Wonderland,LVFCS,Y
+2011,The Artist,LVFCS,Y
+2012,Anna Karenina,LVFCS,Y
+2013,12 Years a Slave,LVFCS,Y
+2014,Guardians of the Galaxy,LVFCS,Y
+2015,Mad Max: Fury Road,LVFCS,Y
+2017,Blade Runner 2049,LVFCS,Y
+2009,The Young Victoria,CCA,Y
+2009,Bright Star,CCA,N
+2009,Inglourious Basterds,CCA,N
+2009,Nine,CCA,N
+2009,Where the Wild Things Are,CCA,N
+2010,Alice in Wonderland,CCA,Y
+2010,Black Swan,CCA,N
+2010,The King's Speech,CCA,N
+2010,True Grit,CCA,N
+2011,The Artist,CCA,Y
+2011,The Help,CCA,N
+2011,Hugo,CCA,N
+2011,Jane Eyre,CCA,N
+2011,My Week with Marilyn,CCA,N
+2012,Anna Karenina,CCA,Y
+2012,Cloud Atlas,CCA,N
+2012,The Hobbit: An Unexpected Journey,CCA,N
+2012,Les Misérables,CCA,N
+2012,Lincoln,CCA,N
+2013,The Great Gatsby,CCA,Y
+2013,12 Years a Slave,CCA,N
+2013,American Hustle,CCA,N
+2013,The Hobbit: The Desolation of Smaug,CCA,N
+2013,Saving Mr. Banks,CCA,N
+2014,The Grand Budapest Hotel,CCA,Y
+2014,Inherent Vice,CCA,N
+2014,Into the Woods,CCA,N
+2014,Maleficent,CCA,N
+2014,Mr. Turner,CCA,N
+2015,Mad Max: Fury Road,CCA,Y
+2015,Brooklyn,CCA,N
+2015,Carol,CCA,N
+2015,Cinderella,CCA,N
+2015,The Danish Girl,CCA,N
+2016,Jackie,CCA,Y
+2016,Allied,CCA,N
+2016,Fantastic Beasts and Where to Find Them,CCA,N
+2016,Florence Foster Jenkins,CCA,N
+2016,La La Land,CCA,N
+2016,Love & Friendship,CCA,N
+2017,Phantom Thread,CCA,Y
+2017,Beauty and the Beast,CCA,N
+2017,Blade Runner 2049,CCA,N
+2017,The Shape of Water,CCA,N
+2017,Wonder Woman,CCA,N
+2017,Beauty and the Beast,PFCS,Y
+2017,Blade Runner 2049,PFCS,N
+2017,Murder on the Orient Express,PFCS,N
+2017,The Shape of Water,PFCS,N
+2017,Wonder Woman,PFCS,N
+2016,Fantastic Beasts and Where to Find Them,PFCS,Y
+2016,Florence Foster Jenkins,PFCS,N
+2016,Hacksaw Ridge,PFCS,N
+2016,Jackie,PFCS,N
+2016,La La Land,PFCS,N
+2000,How the Grinch Stole Christmas,PFCS,Y
+2000,Almost Famous,PFCS,N
+2000,Gladiator,PFCS,N
+2000,Quills,PFCS,N
+2000,The Cell,PFCS,N
+2001,The Lord of the Rings: The Fellowship of the Ring,PFCS,Y
+2001,Gosford Park,PFCS,N
+2001,Harry Potter and the Sorcerer's Stone,PFCS,N
+2001,Moulin Rouge!,PFCS,N
+2001,Planet of the Apes,PFCS,N
+2002,Chicago,PFCS,Y
+2002,Far From Heaven,PFCS,N
+2002,Gangs of New York,PFCS,N
+2002,Harry Potter and the Chamber of Secrets,PFCS,N
+2002,The Lord of the Rings: The Two Towers,PFCS,N
+2003,Down with Love,PFCS,Y
+2003,Master and Commander: The Far Side of the World,PFCS,N
+2003,Pirates of the Caribbean: The Curse of the Black Pearl,PFCS,N
+2003,The Last Samurai,PFCS,N
+2003,The Lord of the Rings: The Return of the King,PFCS,N
+2004,The Aviator,PFCS,Y
+2005,Memoirs of a Geisha,PFCS,Y
+2006,Marie Antoinette,PFCS,Y
+2007,Sweeney Todd: The Demon Barber of Fleet Street,PFCS,Y
+2008,The Duchess,PFCS,Y
+2009,The Young Victoria,PFCS,Y
+2010,Alice in Wonderland,PFCS,Y
+2010,The King's Speech,PFCS,N
+2010,True Grit,PFCS,N
+2011,The Artist,PFCS,Y
+2011,Hugo,PFCS,N
+2011,Jane Eyre,PFCS,N
+2012,Anna Karenina,PFCS,Y
+2012,A Royal Affair,PFCS,N
+2012,Les Misérables,PFCS,N
+2012,Lincoln,PFCS,N
+2012,The Hobbit: An Unexpected Journey,PFCS,N
+2013,The Great Gatsby,PFCS,Y
+2013,12 Years a Slave,PFCS,N
+2013,42,PFCS,N
+2013,American Hustle,PFCS,N
+2013,Saving Mr. Banks,PFCS,N
+2014,The Grand Budapest Hotel,PFCS,Y
+2014,Inherent Vice,PFCS,N
+2014,Into the Woods,PFCS,N
+2014,Maleficent,PFCS,N
+2014,The Theory of Everything,PFCS,N
+2015,Mad Max: Fury Road,PFCS,Y
+2015,Cinderella,PFCS,N
+2015,The Danish Girl,PFCS,N
