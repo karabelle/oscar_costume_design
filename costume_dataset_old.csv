@@ -191,11 +191,11 @@ Year,Movie,Award,Winner
 2014,Into the Woods,CDGA-F,Y
 2015,Mad Max: Fury Road,CDGA-F,Y
 2016,Doctor Strange,CDGA-F,Y
-2000,How the Grinch Stole Christmas,CDGA-F,Y
-2001,Harry Potter and the Sorcerer's Stone,CDGA-F,Y
-2002,Chicago,CDGA-P,Y
-2003,The Lord of the Rings: The Return of the King,CDGA-F,Y
-2004,Lemony Snicket's A Series of Unfortunate Events,CDGA-P,Y
+2000,How the Grinch Stole Christmas,CDGA-FP,Y
+2001,Harry Potter and the Sorcerer's Stone,CDGA-FP,Y
+2002,Chicago,CDGA-FP,Y
+2003,The Lord of the Rings: The Return of the King,CDGA-FP,Y
+2004,Lemony Snicket's A Series of Unfortunate Events,CDGA-FP,Y
 2005,Memoirs of a Geisha,CDGA-P,Y
 2006,Curse of the Golden Flower (Man cheng jin dai huang jin jia),CDGA-P,Y
 2007,Sweeney Todd: The Demon Barber of Fleet Street,CDGA-P,Y
@@ -361,10 +361,10 @@ Year,Movie,Award,Winner
 2005,"Good Night, and Good Luck.",CDGA-P,N
 2005,Rent,CDGA-P,N
 2005,Walk the Line,CDGA-P,N
-2004,The Aviator,CDGA-P,N
-2004,De-Lovely,CDGA-P,N
-2004,The Phantom of the Opera,CDGA-P,N
-2004,Ray,CDGA-P,N
+2004,The Aviator,CDGA-FP,N
+2004,De-Lovely,CDGA-FP,N
+2004,The Phantom of the Opera,CDGA-FP,N
+2004,Ray,CDGA-FP,N
 2004,Alfie,CDGA-C,N
 2004,Eternal Sunshine of the Spotless Mind,CDGA-C,N
 2004,Kill Bill: Volume 2,CDGA-C,N
@@ -373,28 +373,28 @@ Year,Movie,Award,Winner
 2000,High Fidelity,CDGA-C,N
 2000,Traffic,CDGA-C,N
 2000,X-Men,CDGA-C,N
-2000,Almost Famous,CDGA-P,N
-2000,Chocolat,CDGA-P,N
-2000,Quills,CDGA-P,N
+2000,Almost Famous,CDGA-FP,N
+2000,Chocolat,CDGA-FP,N
+2000,Quills,CDGA-FP,N
 2001,Legally Blonde,CDGA-C,N
 2001,Mulholland Drive,CDGA-C,N
 2001,Ocean's Eleven,CDGA-C,N
-2001,Blow,CDGA-P,N
-2001,Hedwig and the Angry Itch,CDGA-P,N
-2001,Planet of the Apes,CDGA-F,N
+2001,Blow,CDGA-FP,N
+2001,Hedwig and the Angry Itch,CDGA-FP,N
+2001,Planet of the Apes,CDGA-FP,N
 2002,About a Boy,CDGA-C,N
 2002,Igby Goes Down,CDGA-C,N
 2002,Unfaithful,CDGA-C,N
 2002,White Oleander,CDGA-C,N
-2002,Frida,CDGA-P,N
-2002,Road to Perdition,CDGA-P,N
-2002,The Lord of the Rings: The Two Towers,CDGA-F,N
+2002,Frida,CDGA-FP,N
+2002,Road to Perdition,CDGA-FP,N
+2002,The Lord of the Rings: The Two Towers,CDGA-FP,N
 2003,Charlie's Angels: Full Throttle,CDGA-C,N
 2003,Kill Bill: Volume 1,CDGA-C,N
 2003,"Legally Blonde 2: Red, White & Blue",CDGA-C,N
-2003,Pirates of the Caribbean: The Curse of the Black Pearl,CDGA-F,N
-2003,Seabiscuit,CDGA-P,N
-2003,The Last Samurai,CDGA-P,N
+2003,Pirates of the Caribbean: The Curse of the Black Pearl,CDGA-FP,N
+2003,Seabiscuit,CDGA-FP,N
+2003,The Last Samurai,CDGA-FP,N
 2012,Beasts of the Southern Wild,CDGA-C,N
 2012,Silver Linings Playbook,CDGA-C,N
 2012,The Best Exotic Marigold Hotel,CDGA-C,N
