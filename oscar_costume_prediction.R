@@ -95,16 +95,22 @@ oscar_nominees_for_chart <- costume_file %>%
                               filter(Award != "Oscar") %>%
                               left_join(award_pts, by = "Award") %>%
                               select(Movie, Award, Winner, wt_win_pct) %>%
-                              mutate(points = wt_win_pct * if_else(Winner == "Y", 1, 0.2))
+                              mutate(Winner = ifelse(is.na(Winner), "N", Winner), points = wt_win_pct * if_else(Winner == "Y", 1, 0.2)) %>%
+                              bind_rows(tibble(Movie = 'Past Winners', Award = NA, Winner = NA, wt_win_pct = NA, points = NA)) %>%
+                              group_by(Movie) %>%
+                              mutate(total_points = round(max(cumsum(points))), 1) %>%
+                              arrange(desc(total_points))
 
-ggplot(data = oscar_nominees_for_chart, aes(Movie, points, group = Award)) + 
+ggplot(data = oscar_nominees_for_chart, aes(x = reorder(Movie, total_points, FUN = max), points, group = Award)) + 
       geom_col(aes(fill = factor(Winner)), color = "black", show.legend = FALSE) + 
       scale_fill_manual(values = c("N" = "grey", "Y" = "yellow")) +
-      geom_text(mapping = aes(label = Award), size = 2, position = position_stack(vjust = 0.5)) + 
-      coord_flip()
-
-# still need to:
-# 0 - figure out how to sort the movies so highest total on top
-# 1 - Get rid of x-axis, y-axis label, and grid
-# 2 - plot past winners' totals on the bottom as dots
-# 3 - add dashed reference line for lowest winning score
+      geom_text(mapping = aes(label = Award), size = 2, position = position_stack(vjust = 0.5), angle = 90) + 
+      geom_text(mapping = aes(x = reorder(Movie, total_points, FUN = max), total_points + 5, group = Movie, label = total_points), size = 3) +
+      coord_flip() +
+      xlab("") + ylab("") +
+      theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), axis.text.x = element_blank(), axis.ticks = element_blank()) +
+      geom_hline(mapping = aes(yintercept = min(win_total)), data = oscar_winners_other_awards, linetype = 3) +
+      geom_point(mapping = aes(x = factor("Past Winners"), y = win_total, group = Movie), data = oscar_winners_other_awards) +
+      annotate(geom = "text", x = factor("Past Winners"), y = 124.6, label = "Fantastic Beasts and Where to Find Them: 125 pts", vjust = -0.5, size = 3) +
+      annotate(geom = "text", x = factor("Past Winners"), y = 314, label = "Anna Karenina: 314 pts", vjust = -0.5, size = 3) +
+      ylim(NA, 330)
